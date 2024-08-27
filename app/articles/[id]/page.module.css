@@ -1,0 +1,29 @@
+.article_page {
+    max-width:80ch;
+    margin: auto;
+}
+
+.article_page h1 {
+    font-family: "Geologica", sans-serif;
+    font-size: 2rem;
+}
+
+.article_page p{
+    margin-bottom:1em;
+}
+
+.article_page img {
+    /* margin-inline-end: 1em; */
+}
+
+@media screen and (max-width: 400px) {
+    .article_page img {
+        width:100%;
+        margin-inline-end: 0dvh;
+        margin-block-end: 1em;
+    }
+    .image_left,
+    .image_right {
+        float:none;
+    }
+}

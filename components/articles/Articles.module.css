@@ -1,0 +1,136 @@
+
+.article__list {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+    list-style-type: none;
+}
+
+@media (min-width: 701px) {
+    .article__list {
+      justify-content: flex-start;
+    }
+  }
+
+/* ======== Blog Card Elements Start Here ======== */
+
+.card {
+    background-color: var(--colour-white);
+    /* outline: 1px solid var(--colour-gray950); */
+    block-size: fit-content;
+    width: var(--card-max-width);
+    border-radius: var(--corner-radius--card);
+    padding: 1.5em;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
+/* ==== Main Components ==== */
+
+.card__image {
+    block-size: 150px;
+    border-radius: var(--corner-radius2);
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    /* Default image placeholder - if no image specified */
+    --s: 32px; /* control the size*/
+    --c1: #778db1;
+    --c2: #413e4a;
+    --c: var(--c1) 25%;  
+    background: 
+      conic-gradient(from -45deg at 75% 12.5%,var(--c),#0000 0),
+      conic-gradient(from 135deg at 25% 87.5%,var(--c),#0000 0) 
+       0 calc(var(--s)/2),
+      conic-gradient(from 180deg at 50% 75%,#0000 62.5%,var(--c)),
+      conic-gradient(            at 50% 25%,#0000 62.5%,var(--c)) 
+       0 calc(var(--s)/2) var(--c2);
+    background-size: var(--s) calc(2*var(--s));
+}
+
+.card__body {
+    height:fit-content;
+    width:100%;
+    padding-bottom: 0.75em;
+}
+
+.card__footer{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: fit-content;
+    width: fit-content;
+    font: var(--font-oxygen-light);
+    font-size: 0.8rem;
+}
+
+/* === Sub Components */
+
+/* Card Image */
+
+.card__image img {
+    display: block;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+/* Card Body */
+
+.article__date {
+    font: var(--font-oxygen-light);
+    font-size: 0.8rem;
+}
+
+.article__title {
+    font: var(--font-geologica-bold);
+    font-size: 1.3rem;
+}
+
+.article__summary {
+    font: var(--font-oxygen-regular);
+    font-size: 0.9rem;
+}
+
+/* Card Footer */
+
+.profile_img_container {
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px outset wheat;
+}
+
+
+
+.card__tag {
+    background-color: var(--color-quantimatica-green);
+    color: white;
+    border-radius: var(--corner-radius3);
+    width: fit-content;
+    padding: 4px 12px;
+}
+
+
+.card__body > * {
+    margin-bottom: 0.75rem;
+}
+
+.article__title:hover,
+.article__title:active,
+.article__title:focus {
+    animation: onHover 0.3s forwards;
+    cursor: pointer;
+}
+
+.article__title a:hover,
+.article__title a:active,
+.article__title a:focus {
+    animation: onHover 0.3s forwards;
+}
+
+@keyframes onHover {
+    100% {
+        color: var(--color-quantimatica-green);
+        scale: 101%;
+    }
+}

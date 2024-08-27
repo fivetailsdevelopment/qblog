@@ -1,0 +1,63 @@
+.header {
+  text-align: center;
+}
+
+.main__heading {
+  font-size: 4rem;
+}
+
+.main {
+    display: grid;
+    gap: 1em;
+    max-inline-size: 1800px;
+    align-items: start;
+    padding: 1rem 1rem;
+    margin-inline: auto;
+  }
+
+.section__column_left {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+  }
+
+  /* Tablet and Smaller Desktop */
+  @media (min-width: 701px) {
+    .main {
+      grid-template-columns: repeat(2, 50%);
+    }
+    .section__column_left {
+      align-content: start;
+    }
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .vercelLogo {
+      filter: invert(1);
+    }
+  
+    .logo {
+      filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
+    }
+  }
+  
+  @keyframes rotate {
+    from {
+      transform: rotate(360deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+  }
+  
+  @media only screen and (min-width: 800px) {
+    .main {
+        grid-template-columns: var(--feature-max-width) 2fr;
+    }
+
+    #feature {
+        justify-content: end;
+    }
+
+}

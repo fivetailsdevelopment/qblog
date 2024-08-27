@@ -1,0 +1,67 @@
+.article_list {
+    padding: 0;
+    margin: auto;
+}
+
+.blog_card {
+    width: 18em;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-quantimatica-black);
+    color: white;
+}
+
+.card__image {
+    display: grid;
+    align-content: center;
+    grid-template-areas: main;
+    overflow: hidden;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.card__image img {
+    opacity: 1;
+    grid-area: main;
+}
+
+
+.article__title,
+.card__body,
+.card__footer {
+    padding: 0.5rem 0.8rem;
+}
+
+.article__title {
+    grid-area: main;
+    background-color: hsla(0, 0%, 0%, 0.721);
+    color: white;
+    font-family: "Geologica", sans-serif;
+    font-size: 1rem;
+    line-height: 1.2;
+    z-index: 1;
+}
+
+.card__body {
+    padding-top: 0;
+    font-size: 14px;
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.card__footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    border-top: 1px solid lightgrey;
+}
+
+.card__tag {
+    background-color: var(--color-quantimatica-blue);
+    color: white;
+    border-radius: var(--corner-radius3);
+    width: fit-content;
+    padding: 4px 12px;
+    margin-block: 1em;
+}

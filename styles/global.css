@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Oxygen:wght@300;400;700&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+:root {
+  --color-quantimatica-blue: hsla(211, 100%, 50%, 1);
+  --color-quantimatica-black: hsla(0, 0%, 0%, 1);
+  --color-quantimatica-green: hsla(133, 61%, 40%, 1);
+  --color-quantimatica-grey: hsla(208, 7%, 45%, 1);
+  --colour-white: hsl(0, 0%, 100%);
+
+  --colour-bg: hsl(40, 60%, 98%);
+
+  --corner-radius--card: 10px;
+  --corner-radius2: 10px;
+  --corner-radius3: 4px;
+
+  --card-max-width:350px;
+  --feature-max-width: var(--card-max-width);
+
+  --font-geologica-light:
+      300
+      1rem
+      "Geologica", sans-serif;
+
+  --font-geologica-regular:
+      400
+      1rem
+      "Geologica", sans-serif;
+
+  --font-geologica-bold:
+      700
+      1rem
+      "Geologica", sans-serif;
+
+  --font-oxygen-light:
+      300
+      1rem
+      "Oxygen", sans-serif;
+
+  --font-oxygen-regular:
+      400
+      1rem
+      "Oxygen", sans-serif;
+
+  --font-oxygen-bold:
+      700
+      1rem
+      "Oxygen", sans-serif;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family:
+    "Geologica",
+    "Overpass",
+    Oxygen
+    /* -apple-system,
+    BlinkMacSystemFont,
+    Segoe UI, */
+    Roboto,
+    /* Oxygen,
+    Ubuntu,
+    Cantarell,
+    Fira Sans,
+    Droid Sans, */
+    Helvetica Neue,
+    sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+body {
+  background-color: var(--colour-bg);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1 {
+  font-family: "Geologica";
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  font-family: "Oxygen";
+}
+
+img {
+  display: block;
+}
+
+nav a {
+    color: var(--colour-white)
+}
+
+nav a:hover {
+  color: var(--color-quantimatica-blue);
+}
+
+/* Article Image Formatting */
+
+.image_left {
+  float: left;
+  margin-inline-end: 1em;
+}
+
+.image_right {
+  float:right;
+  margin-inline-start: 1em;
+}
+
+.image_small {
+  inline-size: 200px;
+}
+
+.image_medium {
+  inline-size: 300px;
+}
+
+.image_large {
+  inline-size: 400px;
+}
