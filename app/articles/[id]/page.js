@@ -22,6 +22,7 @@ export default async function Post({ params }) {
 
     return (
         <section className={styles.article_page}>
+            <div className={styles.whitePage}>
             <Head>
                 <title>{articleData.title}</title>
             </Head>
@@ -31,6 +32,11 @@ export default async function Post({ params }) {
                 </div>
                 <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
             </article>
+            <footer className={styles.article__footer}>
+            <h3>{articleData.author}</h3>
+            <p><strong>Email:</strong> articles@quantimatica.com.au</p>
+            </footer>
+            </div>
         </section>
     )
 }

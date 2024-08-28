@@ -20,10 +20,6 @@ export default function Feature({ allArticlesData}) {
 
                     <div className={styles.card__body}>
 
-                        <div className={styles.card__tag}>
-                            <p className={styles.article__tags}>Problem Solving</p>
-                        </div>
-
                         <div className={styles.article__summary}>
                             <p>{summary}</p>
                         </div>

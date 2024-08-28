@@ -16,7 +16,7 @@ export default function Navigation() {
 
     return (
         <nav className={styles.navigation_container}>
-            <a href="http://wwww.quantimatica.com.au"><div className={styles.logo_container}>
+            <a href="http://www.quantimatica.com.au"><div className={styles.logo_container}>
                     <img height="50px" src="/images/qlogo_white.svg"/>
                     <p>QUANTIMATICA</p>
                     </div></a>

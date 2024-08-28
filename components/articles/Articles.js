@@ -11,25 +11,17 @@ export default function Articles({ allArticlesData }) {
         <article>
            <ul className={styles.article__list} >
             {allArticlesData.map(({ id, date, title, author, summary }) => (
-                <li className={styles.card} key={id}>
-
-                    <div className={styles.card__image}>
-                        <img src='/images/maze-sketch.png'/>
-                    </div>
-
+                <li className={styles.cardNew} key={id}>
                     <div className={styles.card__body}>
-                        <div className={styles.card__tag}>
-                            <p className={styles.article__tags}>Problem Solving</p>
-                        </div>
                         <p className={styles.article__date}>Published <Date dateString={date} /></p>
-                        <div className={styles.article__title}>
+                        <div className={styles.cardNew_Title}>
                             <Link href={`articles/${id}`}>{title}</Link>
                         </div>
-                        <div className={styles.article__summary}>
+                        <div className={styles.cardNew_Body}>
                             <p>{summary}</p>
                         </div>
                     </div>
-
+                    <div className={styles.cardNew_Button}><Link href={`articles/${id}`}>Open article</Link></div>
                     <div className={styles.card__footer}>
                         <div className={styles.profile_img_container}><img src="/images/jh_profile.svg" height="40px" width="40px" alt="profile photo" /></div>
                         {author}

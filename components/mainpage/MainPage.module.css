@@ -1,9 +1,36 @@
 .header {
   text-align: center;
+  display: grid;
+  grid-template-areas: "hero";
+  grid-auto-flow: column;
+}
+
+.heroImage {
+  margin: auto;
+  grid-area: hero;
+  object-fit: cover;
+}
+
+.hero_text {
+  grid-area: hero;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-block-start: 7em;
 }
 
 .main__heading {
-  font-size: 4rem;
+  grid-area: hero;
+  font-size: 6rem;
+}
+
+.hero_bodyText {
+  max-inline-size: fit-content;
+  background-color: var(--colour-qblog-dark-grey);
+  color: var(--colour-qblog-soft-grey);
+  padding: 0.5em 1em;
+  border-radius: 15px;
+  letter-spacing: 1.1px;
 }
 
 .main {

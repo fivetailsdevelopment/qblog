@@ -8,6 +8,13 @@
 
   --colour-bg: hsl(40, 60%, 98%);
 
+  --colour-qblog-muted-blue: hsla(211, 100%, 40%, 1);
+  --colour-qblog-warm-coral: hsla(11, 85%, 58%, 1);
+  --colour-qblog-soft-grey: hsla(208, 7%, 85%, 1);
+  --colour-qblog-lively-green: #32cd53;
+  --colour-qblog-dark-grey: hsl(0, 0%, 20%);
+
+
   --corner-radius--card: 10px;
   --corner-radius2: 10px;
   --corner-radius3: 4px;
@@ -75,7 +82,10 @@ body {
 }
 
 body {
-  background-color: var(--colour-bg);
+  /* background-color: var(--colour-qblog-soft-grey); */
+  background: rgb(200,207,199);
+  background: linear-gradient(0deg, rgba(200,207,199,1) 0%, rgba(167,175,165,1) 100%) no-repeat;
+  min-block-size: 100vh;
 }
 
 * {
@@ -94,6 +104,15 @@ img {
 
 h1 {
   font-family: "Geologica";
+}
+
+h2 {
+  margin-block-end: 0.3em;
+  color: var(--colour-qblog-dark-grey)
+}
+
+h3 {
+  margin-block-end: 0.2em;
 }
 
 p {
@@ -136,4 +155,12 @@ nav a:hover {
 
 .image_large {
   inline-size: 400px;
+}
+
+/* Article General Formatting */
+
+.highlightBox {
+  padding: 1em 1em 0.2em 1em;
+  margin-block: 1em;
+  background-color: var(--colour-qblog-soft-grey);
 }

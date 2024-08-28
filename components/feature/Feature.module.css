@@ -4,11 +4,20 @@
 }
 
 .blog_card {
-    width: 18em;
+    max-inline-size: 18em;
     display: flex;
     flex-direction: column;
-    background-color: var(--color-quantimatica-black);
-    color: white;
+    background-color: var(--colour-qblog-soft-grey);
+    color: black;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: var(--corner-radius--card);
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.blog_card:hover {
+    scale: 1.02;
+    transition: 0.5s;
 }
 
 .card__image {
@@ -34,7 +43,7 @@
 
 .article__title {
     grid-area: main;
-    background-color: hsla(0, 0%, 0%, 0.721);
+    background-color: hsla(0, 0%, 20%, 0.8);
     color: white;
     font-family: "Geologica", sans-serif;
     font-size: 1rem;
@@ -43,7 +52,7 @@
 }
 
 .card__body {
-    padding-top: 0;
+    padding-top: 1em;
     font-size: 14px;
     flex-grow: 1;
     overflow: hidden;

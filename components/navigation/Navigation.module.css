@@ -1,14 +1,13 @@
 .navigation_container {
-    min-block-size: 5rem;
+    min-block-size: 4rem;
     inline-size: 100%;
-    padding: 1em;
+    padding: 0.5em;
     gap: 1em;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid lightgrey;
-    background-color: var(--color-quantimatica-black);
+    background-color: var(--colour-qblog-dark-grey);
     /* color: var(--colour-white); */
 }
 
@@ -21,13 +20,28 @@
 
 .logo_container p {
     font-family: "Geologica";
-    color: var(--colour-white);
+    color: var(--colour-qblog-soft-grey);
+}
+
+.logo_container p:hover {
+    color: var(--color-quantimatica-blue);
 }
 
 .navbar {
     display: flex;
     list-style-type: none;
+    flex-grow: 1;
 }
+
+.navbar li Link {
+    color: var(--colour-qblog-soft-grey);
+}
+
+/* ========= Delete this when ready to display the contact us button ======== */
+.contact_us_container {
+    display: none;
+}
+/* ========= End of contect to delete ======== */
 
 .contact_us_container button {
     height: 40px;
