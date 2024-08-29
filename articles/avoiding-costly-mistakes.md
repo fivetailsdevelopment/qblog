@@ -10,7 +10,7 @@ feature: 'Yes'
 
 <br />
 
-<img class="image_left image_medium" src="/articleimages/maze-sketch.png" alt="maze image" />
+<img class="image_left image_medium" src="/articleimages/maze-sketch.webp" alt="maze image" />
 
 ## Introduction
 
@@ -22,13 +22,13 @@ This article explores the importance of a comprehensive approach to problem-solv
 
 When leaders rush to solve problems without fully understanding the root causes, they often fall prey to cognitive biases and narrow frames of reference. This can result in decisions that are based on incomplete information or faulty assumptions, ultimately leading to negative outcomes.
 
-<img class="image_right image_small" src="/articleimages/uber-sketch.png" alt="tree image" />
+<img class="image_right image_small" src="/articleimages/uber-sketch.webp" alt="tree image" />
 
 Consider the case of [Uber](https://www.theverge.com/2020/2/19/21142081/susan-fowler-uber-whistleblower-interview-silicon-valley-discrimination-harassment), which allegedly developed a highly competitive and aggressive work culture under the leadership of former CEO Travis Kalanick. It has been claimed that Uber’s meteoric rise was driven by a relentless focus on growth, often at the expense of ethics and employee well-being. The decision to prioritise rapid expansion and market dominance led to the fostering of a toxic workplace environment, characterised by systemic issues such as sexual harassment and discrimination.
 
 **Confirmation Bias** played a significant role in Uber's downfall. Kalanick and his leadership team were so focused on the company’s growth trajectory that they overlooked—or even dismissed—evidence of the growing cultural problems within the organisation. This bias, combined with a **narrow frame of reference** that emphasised short-term success over long-term sustainability, ultimately led to public scandals, a loss of top talent, and Kalanick’s forced resignation.
 
-<img class="image_left image_small" src="/articleimages/scales-sketch.png" alt="scales image" />
+<img class="image_left image_small" src="/articleimages/scales-sketch.webp" alt="scales image" />
 
 Similarly, [Wells Fargo](https://www.npr.org/sections/thetwo-way/2016/09/08/493130449/wells-fargo-to-pay-around-190-million-over-fake-accounts-that-sparked-bonuses) fell into the trap of **incentive-driven decision-making** without considering the broader implications for its workforce. In an effort to meet aggressive sales targets, Wells Fargo leadership allegedly implemented a system that incentivised employees to cross-sell products to customers. However, this system was poorly designed and lacked adequate oversight, leading to widespread unethical behavior, such as the creation of millions of unauthorised accounts.
 
@@ -36,7 +36,7 @@ The decision-making process at Wells Fargo was potentially clouded by **anchorin
 
 **IBM’s** approach to workforce restructuring provides another cautionary tale. Faced with declining market share and the need to pivot from hardware to cloud computing and AI, IBM decided to cut costs through large-scale layoffs, which some are claiming targeted older employees. The decision-making process was supposedly driven by a **short-term focus** on reducing expenses, but it failed to account for the long-term impact on the company’s intellectual capital and morale.
 
-<img class="image_left image_small" src="/articleimages/ibm-sketch.png" alt="tree stump image" />
+<img class="image_left image_small" src="/articleimages/ibm-sketch.webp" alt="tree stump image" />
 
 Whether or not age was a conscious determinant in selecting workers for redundancy, IBM’s leadership likely suffered from **overconfidence bias**, believing that the company could successfully transform its business while sacrificing experienced employees in favor of a less expensive workforce. Regardless of intent, this decision backfired, as it led to numerous [age discrimination lawsuits](https://www.forbes.com/sites/jackkelly/2022/02/12/ibm-accused-of-ageism-older-workers-are-dinobabies-who-should-be-made-an-extinct-species/), loss of valuable knowledge and expertise, and a tarnished reputation as an employer. The resulting disruption within the company hindered IBM’s ability to execute its strategic pivot effectively, contributing to its struggles in keeping pace with competitors.
 
@@ -46,7 +46,7 @@ Leaders can  avoid the pitfalls illustrated by Uber, Wells Fargo, and IBM, by ad
 
 ### 1. Hypothesis-Driven Approach
 
-<img class="image_right image_small" src="/articleimages/hypothesis-sketch.png" alt="hypothesis image" />
+<img class="image_right image_small" src="/articleimages/hypothesis-sketch.webp" alt="hypothesis image" />
 
    - **What it is**: This approach involves formulating clear, testable hypotheses about the nature of the problem and then using data to validate or refute these hypotheses.
    - **How to use it**: For instance, if a company is facing high employee turnover, a hypothesis-driven approach might involve identifying potential causes—such as lack of career development opportunities or poor management practices—and testing these assumptions through surveys, exit interviews, and performance data.
@@ -56,7 +56,7 @@ Leaders can  avoid the pitfalls illustrated by Uber, Wells Fargo, and IBM, by ad
 
 ### 2. Issue-Driven Problem Solving
 
-<img class="image_right image_small" src="/articleimages/issue-drive-sketch.png" alt="issue driven image" />
+<img class="image_right image_small" src="/articleimages/issue-drive-sketch.webp" alt="issue driven image" />
 
    - **What it is**: This method breaks down complex problems into smaller, more manageable issues, each of which is analysed and addressed individually.
    - **How to use it**: In a situation where an organisation is struggling with low employee engagement, an issue-driven approach might involve examining various factors such as workplace culture, compensation, leadership, and work-life balance. By tackling each issue separately, the organisation can develop a comprehensive strategy that addresses all relevant factors.
@@ -66,7 +66,7 @@ Leaders can  avoid the pitfalls illustrated by Uber, Wells Fargo, and IBM, by ad
 
 ### 3. Design Thinking
 
-<img class="image_right image_small" src="/articleimages/design-thinking-sketch.png" alt="design thinking image" />
+<img class="image_right image_small" src="/articleimages/design-thinking-sketch.webp" alt="design thinking image" />
 
    - **What it is**: Design thinking is a human-centered approach that emphasises empathy with end-users, iterative prototyping, and creative problem-solving.
    - **How to use it**: For example, a company looking to improve employee satisfaction might use design thinking to engage with employees directly, understand their needs and pain points, and co-create solutions through collaborative workshops and feedback loops.
@@ -78,7 +78,7 @@ Leaders can  avoid the pitfalls illustrated by Uber, Wells Fargo, and IBM, by ad
 
 The cases of Uber, Wells Fargo, and IBM highlight the dangers of making decisions without fully understanding the underlying issues or considering the long-term impact on the workforce. These companies fell into common cognitive traps—such as confirmation bias, anchoring bias, and overconfidence bias—that clouded their judgment and led to costly mistakes.
 
-<img class="image_left image_medium" src="/articleimages/lessons-learned-sketch.png" alt="design thinking image" />
+<img class="image_left image_medium" src="/articleimages/lessons-learned-sketch.webp" alt="design thinking image" />
 
 By adopting evidence-based problem-solving approaches, organisations can avoid these pitfalls and make more informed, strategic decisions. Whether it’s using a hypothesis-driven approach to test assumptions, breaking down complex issues into manageable parts, or applying design thinking to develop user-centered solutions, a methodical approach to problem-solving is essential for building a high-performing workforce.
 
