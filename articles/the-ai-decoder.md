@@ -1,6 +1,6 @@
 ---
 title: 'The AI Decoder: What Your Fast Brain Isn’t Telling You About Artificial Intelligence'
-date: '2024-08-28'
+date: '2024-09-15'
 author: 'James Hohnen'
 summary: 'Unlock the secrets behind AI and discover where it excels—and where it falls short. Learn how to harness AI’s power wisely and avoid common pitfalls in decision-making.'
 feature: 'No'

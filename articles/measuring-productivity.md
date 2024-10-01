@@ -1,6 +1,6 @@
 ---
 title: 'Cracking the Code: How to Measure Productivity Without Losing Your Sanity'
-date: '2024-08-28'
+date: '2024-10-01'
 author: 'James Hohnen'
 summary: 'Unlock the secrets to measuring productivity in today’s complex work environment. Discover the pros and cons of financial, operational, and intangible metrics, and find the right mix for your organisation.'
 feature: 'No'
@@ -67,7 +67,7 @@ For many, traditional metrics like output per employee feel outdated, especially
 ### Utilisation Rates: Are We There Yet?
 
 - **Where It Works**: Utilisation rates measure how effectively your workforce is being used. This metric is particularly useful in industries like consulting, construction, IT services, and professional services, where ensuring that employees are fully occupied with productive work can make or break profitability.
-- **Where It Falls Short**: High utilisation isn’t always a good thing. If your team is too utilised, you might be running them ragged, leading to burnout and decreased long-term productivity. It can also lead to a reluctance to participate or engage in 'non-utilisation' activities, such as learning or innvation, especially where charge-backs are applied to the support function facilitating the activity.
+- **Where It Falls Short**: High utilisation isn’t always a good thing. If your team is too utilised, you might be running them ragged, leading to burnout and decreased long-term productivity. It can also lead to a reluctance to participate or engage in 'non-utilisation' activities, such as learning or innovation, especially where charge-backs are applied to the support function facilitating the activity.
 
 <div class="highlightBox">
 
