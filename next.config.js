@@ -10,7 +10,7 @@ module.exports = {
             headers: [
               {
                 key: 'Content-Security-Policy',
-                value: "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com/recaptcha; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com/;",
+                		value: "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com https://www.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://www.google.com https://www.recaptcha.net; connect-src 'self' https://www.google.com https://www.gstatic.com;"
               },
               {
                 key: 'X-Frame-Options',
