@@ -10,7 +10,7 @@ module.exports = {
             headers: [
               {
                 key: 'Content-Security-Policy',
-                value: "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;",
+                value: "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;",
               },
               {
                 key: 'X-Frame-Options',
