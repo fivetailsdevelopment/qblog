@@ -14,7 +14,7 @@ export default function Feature({ allArticlesData}) {
                 <li className={styles.blog_card} key={id}>
                     
                     <div className={styles.card__image}>
-                        <img src="/images/maze-sketch.png" alt=""/>
+                        <img src="/articleimages/ai-evolution.webp" alt=""/>
                         <Link className={styles.article__title} href={`articles/${id}`}>{title}</Link>
                     </div>
 
