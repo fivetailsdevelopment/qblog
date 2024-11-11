@@ -140,6 +140,11 @@ nav a:hover {
   margin-inline-end: 1em;
 }
 
+.image_centre {
+  margin-inline-end: 1em;
+}
+
+
 .image_right {
   float:right;
   margin-inline-start: 1em;
@@ -155,6 +160,10 @@ nav a:hover {
 
 .image_large {
   inline-size: 400px;
+}
+
+.image_full {
+  inline-size: 100%;
 }
 
 /* Article General Formatting */

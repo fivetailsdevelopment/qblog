@@ -7,6 +7,8 @@ feature: 'No'
 meta-description: Are organisations genuinely addressing psychosocial risks, or just ticking compliance boxes? This article explores the real impact of shifting from compliance to a culture-driven approach in managing mental health and safety, revealing why true change starts with proactive, meaningful leadership..
 ---
 
+<img class="image_centre image_full" src="/articleimages/psychosocialrisk.webp" alt="maze image" />
+
 As organisations roll out new policies for mental health and safety, including the "right to disconnect", are they genuinely transforming, or just ticking boxes? I recently had a conversation with a senior HR professional about how well organisations were adapting to changes in psychosocial health and safety legislation. This professional’s view was that, for the most part, HR had successfully adapted, and that managing well-being was primarily an individual responsibility. They felt strongly that if an employee works after hours, it’s by choice, and they didn’t believe that leaders’ views on performance were impacted by whether an employee worked overtime. I mentioned that, at a recent HR seminar, a guest speaker shared data on the diminishing returns of employees who regularly work overtime. When the speaker asked a room full of Chief People Officers to raise their hands if they viewed team members who worked overtime as higher performers, nearly every hand in the room went up — albeit sheepishly. The professional I was speaking with simply shrugged and remained unconvinced.
 
 So, was this professional right? Have organisations, broadly, responded effectively to these changes? Or is the intent of the legislation still meeting resistance from decades of cultural norms, longstanding practices, and conflicting views on the importance of mental health? Certainly, the right things are being said, but what’s going on behind the scenes?
@@ -33,6 +35,8 @@ In a 2021 article in the [*Stanford Social Innovation Review*](https://ssir.org/
 ## 3. Compliance Versus Culture
 
 While many organisations increasingly recognise the importance of managing psychosocial risks, the adequacy of their responses varies. Some have implemented comprehensive strategies, while others still rely on minimal compliance measures. However, real cultural transformation requires moving from a compliance exercise to a genuine commitment to change, and there’s concern that many organisations treat psychosocial risk management as just another compliance exercise rather than a real cultural shift.
+
+<img class="image_right image_large" src="/articleimages/box-ticking.webp" alt="maze image" />
 
 A [report](https://www.ashurst.com/en/insights/every-organisation-in-australia-must-act-to-manage-psychosocial-risks-in-the-workplace/) by the Australian Council of Trade Unions (ACTU) found that many employers implement superficial measures, such as policy updates, without integrating them into daily practices. The ACTU stressed that genuine cultural change is essential for managing psychosocial risks effectively. Similarly, a 2023 [article by the Dattner Group](https://dattnergroup.com.au/resources/understanding-the-changing-legislation-around-psychosocial-risk-and-psychological-safety-in-australia/) highlighted that despite the introduction of ISO 45003—a standard guiding psychosocial risk management—many organisations have yet to fully integrate these practices. Dattner Group stresses that leaders must go beyond compliance and foster a culture prioritising psychological safety.
 
