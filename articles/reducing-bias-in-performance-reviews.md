@@ -6,8 +6,6 @@ summary: "How bias in performance reviews, particularly in gender and racial con
 feature: 'No'
 ---
 
-# Reducing Bias in Performance Reviews: A Closer Look at the Latest Research
-
 <img class="image_right image_large" src="/articleimages/performance-bias.webp" alt="bias in performance ratings image" />
 
 Last week I came across a 2019 article published on [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/when-numeric-performance-reviews-are-biased-against-women) about how numeric performance reviews can be biased against women. The article focused on 10-point rating systems and proposed a simple fix: reducing it to a six-point scale. As I read through, I was struck by some underlying assumptions folded into the narrative. The overarching theme suggested that men held biases against women. However, as they explored the studies, they found that in more balanced teams, men and women were rated equally, while bias was more prevalent in male-dominated settings. The researchers argued that, under a 10-point scale, a "10" is perceived as perfection, but in a six-point scale, a "6" isn’t. They linked the gender rating gap to stereotypes around what a "perfect 10" looks like.

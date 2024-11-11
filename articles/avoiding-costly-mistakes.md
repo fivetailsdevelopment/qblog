@@ -6,8 +6,6 @@ summary: 'Rushed decisions can cost your business millions. Discover how industr
 feature: 'No'
 ---
 
-# The Hidden Costs of Hasty Decisions: Lessons From The Big Players
-
 <br />
 
 <img class="image_left image_medium" src="/articleimages/maze-sketch.webp" alt="maze image" />

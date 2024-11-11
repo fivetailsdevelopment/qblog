@@ -7,9 +7,6 @@ feature: 'No'
 meta-description: Discover the illusion of information adequacy, why people assume they have enough information, and practical strategies to challenge assumptions and make informed decisions.
 ---
 
-# Overcoming the Illusion of Information Adequacy
-
-
 <img class="image_right image_large" src="/articleimages/differing_viewpoints.webp" alt="ai evolution image" />
 
 In 2023, researchers at Johns Hopkins University conducted a controlled study with over a thousand participants who responded to a hypothetical scenario[1] about a fictional school that lacked adequate water. The control group participants received complete information, while the “treatment” participants received only half the information. The researchers found that treatment participants assumed they had sufficient information to make informed decisions and believed they were as competent as the control group. They also thought most people would make similar decisions. This tendency, which they termed the *illusion of information adequacy*, is a reminder of the pitfalls of [fast-brain thinking](https://qblog.quantimatica.com.au/articles/avoiding-costly-mistakes).

@@ -6,7 +6,6 @@
 
 .whitePage {
     background-color: white;
-    padding: 1em;
 }
 
 @media screen and (max-width: 950px) {
@@ -15,15 +14,49 @@
     }
 }
 
-.article_page h1 {
-    font-family: "Geologica", sans-serif;
-    font-size: 2rem;
-    margin-block-end: 0.5em;
-    color:var(--colour-qblog-muted-blue)
+.headingBanner {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2em 2em 1em 2em;
 }
 
-.article_page p{
-    margin-bottom:1em;
+.date {
+    font-weight: 100;
+    font-size: 0.8rem;
+}
+
+.article_page h1 {
+    font-family: "Geologica", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 100;
+    margin-block-end: 0.5em;
+    color: white;
+}
+
+.author {
+    font-size: 0.9em;
+    font-weight: 100;
+}
+
+.articleBody{
+    padding: 1em;
+}
+
+.article_page h2 {
+    font-family: "Oxygen", sans-serif;
+}
+
+.article_page p {
+    font-family: "Inter", sans-serif;
+    margin-block: 1.5em;
+}
+
+.article_page blockquote {
+    border-left: 5px solid grey;
+    padding-inline-start: 1em;
+    font-style: italic;
 }
 
 .article_page img {
@@ -35,7 +68,7 @@
 }
 
 .article__footer {
-    margin-block-start: 1em;
+    margin: 1em;
 }
 
 @media screen and (max-width: 400px) {

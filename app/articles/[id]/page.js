@@ -27,10 +27,14 @@ export default async function Post({ params }) {
                 <title>{articleData.title}</title>
             </Head>
             <article>
-                <div>
-                    <Date dateString={articleData.date} />
+                <div className={styles.headingBanner}>
+                    <span className={styles.date}><Date dateString={articleData.date} /></span>
+                    <h1>{articleData.title}</h1>
+                    <p className={styles.author}>{articleData.author}</p>
                 </div>
-                <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
+                <div  className={styles.articleBody}>
+                    <div dangerouslySetInnerHTML={{ __html: articleData.contentHtml }} />
+                </div>
             </article>
             <footer className={styles.article__footer}>
             <h3>{articleData.author}</h3>

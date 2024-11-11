@@ -6,8 +6,6 @@ summary: 'Unlock the secrets to measuring productivity in today’s complex work
 feature: 'No'
 ---
 
-# Cracking the Code: How to Measure Productivity Without Losing Your Sanity
-
 ## Introduction: The Productivity Puzzle
 
 <img class="image_right image_medium" src="/articleimages/productivity-puzzle-coloured.webp" alt="productivity puzzle" />

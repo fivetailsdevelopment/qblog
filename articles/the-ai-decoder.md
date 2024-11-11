@@ -6,8 +6,6 @@ summary: 'Unlock the secrets behind AI and discover where it excels—and where 
 feature: 'No'
 ---
 
-# The AI Decoder: What Your Fast Brain Isn’t Telling You About Artificial Intelligence
-
 ## AI: The Buzzword We Can’t Escape
 
 <img class="image_right image_medium" src="/articleimages/ai-image-blue.webp" alt="AI in the workplace" />
