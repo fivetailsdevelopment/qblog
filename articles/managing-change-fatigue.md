@@ -135,7 +135,7 @@ And if someone mentions “survey fatigue” as an excuse not to collect feedbac
 ### References
 1. [Better Health Channel, Victoria State Government](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/fatigue)
 2. [Safe Work Australia: Fatigue](https://www.safeworkaustralia.gov.au/safety-topic/hazards/fatigue/overview)
-3. [Safe Work Australia: Psyhcosocial Hazars - poor organisational change management](https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/mental-health/psychosocial-hazards/poor-organisational-change-management)
+3. [Safe Work Australia: Psychosocial Hazards - poor organisational change management](https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/mental-health/psychosocial-hazards/poor-organisational-change-management)
 4. [Forbes](https://www.forbes.com/sites/rogersands/2024/05/25/health-and-wellness-retreats/)
 5. [healthdirect.gov.au](https://www.healthdirect.gov.au/fatigue)
 6. [Safe Work Australia: Risk Management](https://www.safeworkaustralia.gov.au/sites/default/files/2022-09/managing_psychosocial_hazards_at_work.pdf)
