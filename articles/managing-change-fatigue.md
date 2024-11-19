@@ -2,9 +2,9 @@
 title: Change Fatigue is Probably Not What You Think It Is
 date: '2024-11-19'
 author: 'James Hohnen'
-summary: "Explore what 'change fatigue' really means and learn how to prevent it in the workplace with actionable tips and strategies. Address fatigue the right way."
+summary: "Explore what change fatigue really means and learn how to prevent it in the workplace with actionable tips and strategies. Address fatigue the right way."
 feature: 'No'
-meta-description: Explore what 'change fatigue' really means and learn how to prevent it in the workplace with actionable tips and strategies. Address fatigue the right way.
+meta-description: Explore what change fatigue really means and learn how to prevent it in the workplace with actionable tips and strategies. Address fatigue the right way.
 ---
 
 <img class="image_centre image_full" src="/articleimages/change-fatigue-workers.webp" alt="change fatigue" />
