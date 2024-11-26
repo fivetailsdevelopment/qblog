@@ -39,7 +39,7 @@ Alice’s situation is not unique. Many culture change efforts fail for a variet
 
 [Harvard](https://professional.dce.harvard.edu/blog/7-reasons-why-change-management-strategies-fail-and-how-to-avoid-them/) adds that leaders focus heavily on what the change is and why it’s necessary, but failing to prioritise how the change will happen can undermine efforts.
 
-Carolyn Tayler, author of *Walking the Talk*, shares another observation:  
+Carolyn Taylor, author of *Walking the Talk*, shares another observation:  
 > “Another cause of transformations failing is organisations becoming caught up in activity and not focusing enough on the end state.”
 
 In Alice’s case, the Executive discussions focused almost exclusively on employee behaviour. Why? Because this was the only area they would all agree to address. As a result, the plan targeted behavioural change in employees but failed to examine systemic factors reinforcing the status quo.
