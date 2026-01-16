@@ -4,6 +4,7 @@ date: '2024-10-22'
 author: 'James Hohnen'
 summary: "How bias in performance reviews, particularly in gender and racial contexts, can distort evaluations, impact organisational talent strategies, and hinder diversity-driven innovation. Research-backed insights and actionable solutions to create more equitable, outcome-based evaluation processes."
 feature: 'No'
+topics: ["Cognitive Bias", "Feedback", "Performance"]
 ---
 
 <img class="image_right image_large" src="/articleimages/performance-bias.webp" alt="bias in performance ratings image" />

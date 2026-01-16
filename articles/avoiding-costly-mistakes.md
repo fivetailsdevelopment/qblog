@@ -4,6 +4,7 @@ date: '2024-09-01'
 author: 'James Hohnen'
 summary: 'Rushed decisions can cost your business millions. Discover how industry giants like Uber, Wells Fargo, and IBM stumbled—and learn the strategies that can help you avoid making the same costly mistakes.'
 feature: 'No'
+topics: ["Leadership", "Decision Making", "Cognitive Bias"]
 ---
 
 <br />

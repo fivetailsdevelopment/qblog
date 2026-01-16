@@ -4,6 +4,7 @@ date: '2024-10-15'
 author: 'James Hohnen'
 summary: "AI is increasingly stepping into advisory roles traditionally held by human consultants, offering data-driven insights and conversational guidance for leadership challenges. This article explores AI's evolving capabilities and provides practical tips on how to leverage AI's strengths."
 feature: 'Yes'
+topics: ["AI", "Decision Making", "Leadership"]
 ---
 
 <img class="image_right image_large" src="/articleimages/ai-evolution.webp" alt="ai evolution image" />
@@ -111,7 +112,7 @@ As AI continues to evolve, it will become an even more valuable partner in leade
 ---
 
 ### References
-[1]: [Accountants Taking Strategic Lead on AI](https://www.accaglobal.com/middle-east/en/news/2024/September/strategic-AI.html#:~:text=Based%20on%20interviews%20and%20a,they%20were%20the%20strategic%20owners.)
-[2]: [AI Tools for Business Consulting](https://nmsconsulting.com/insights/using-ai-for-strategic-business-consulting-in-2024/)
-[3]: [State of Generative AI in the Enterprise](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
-[4]: [AI Model Collapse Research](https://arxiv.org/abs/2311.16822)
+1. [Accountants Taking Strategic Lead on AI](https://www.accaglobal.com/middle-east/en/news/2024/September/strategic-AI.html#:~:text=Based%20on%20interviews%20and%20a,they%20were%20the%20strategic%20owners.)
+2. [AI Tools for Business Consulting](https://nmsconsulting.com/insights/using-ai-for-strategic-business-consulting-in-2024/)
+3. [State of Generative AI in the Enterprise](https://www2.deloitte.com/us/en/pages/consulting/articles/state-of-generative-ai-in-enterprise.html)
+4. [AI Model Collapse Research](https://arxiv.org/abs/2311.16822)

@@ -1,36 +1,35 @@
 import React from "react";
-import { Inter } from "next/font/google";
 import "../styles/global.css";
-import Head from "next/head";
-import Link from "next/link";
 import Navigation from "@/components/navigation";
+import { Inter, Ubuntu_Sans } from "next/font/google";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap",
+});
 
-const siteTitle = 'Quantimatica Blog'
+const ubuntuSans = Ubuntu_Sans({
+  subsets: ["latin"],
+  variable: "--font-ubuntu-sans",
+  display: "swap",
+});
 
 export const metadata = {
-  title: "qBlog - Quantimatica Blog",
-  description: "Finding solutions for complex problems",
+  title: "qBlog - Quantimatica",
+  description:
+    "Insights and practical thinking on culture, capability, and how work actually gets done.",
+  icons: { icon: "/favicon.ico" },
 };
 
 export default function RootLayout({ children }) {
-
-    return (
-    <html lang="en">
-      <Head>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="Sharing ideas and research"
-        />
-        <title>{siteTitle}</title>
-      </Head>
+  return (
+    <html lang="en" className={`${inter.variable} ${ubuntuSans.variable}`}>
       <body>
-      <header>
-        <Navigation />
-      </header>
-      <main className={inter.className} >{children}</main>
+        <header>
+          <Navigation />
+        </header>
+        <main>{children}</main>
       </body>
     </html>
   );

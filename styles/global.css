@@ -1,57 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Oxygen:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 :root {
-  --color-quantimatica-blue: hsla(211, 100%, 50%, 1);
-  --color-quantimatica-black: hsla(0, 0%, 0%, 1);
-  --color-quantimatica-green: hsla(133, 61%, 40%, 1);
-  --color-quantimatica-grey: hsla(208, 7%, 45%, 1);
-  --colour-white: hsl(0, 0%, 100%);
+  --bg: #0b1214;
+  --surface: #101b1e;
+  --surface-2: #142125;
+  --border: rgba(255, 255, 255, 0.10);
 
-  --colour-bg: hsl(40, 60%, 98%);
+  --text: rgba(255, 255, 255, 0.92);
+  --text-muted: rgba(255, 255, 255, 0.70);
 
-  --colour-qblog-muted-blue: hsla(211, 100%, 40%, 1);
-  --colour-qblog-warm-coral: hsla(11, 85%, 58%, 1);
-  --colour-qblog-soft-grey: hsla(208, 7%, 85%, 1);
-  --colour-qblog-lively-green: #32cd53;
-  --colour-qblog-dark-grey: hsl(0, 0%, 20%);
+  --emerald-primary: #2fe3b1;                 /* action / focus */
+  --emerald-hover: #39f0c0;                   /* interaction feedback */
+  --emerald-trace: rgba(47, 227, 177, 0.08);  /* atmospheric / bias */
 
+  --accent: #4DA1A9;
+  --accent-soft: rgba(77, 161, 169, 0.22);
 
-  --corner-radius--card: 10px;
-  --corner-radius2: 10px;
-  --corner-radius3: 4px;
+  --radius: 16px;
 
-  --card-max-width:350px;
+  --card-max-width: 350px;
   --feature-max-width: var(--card-max-width);
 
-  --font-geologica-light:
-      300
-      1rem
-      "Geologica", sans-serif;
-
-  --font-geologica-regular:
-      400
-      1rem
-      "Geologica", sans-serif;
-
-  --font-geologica-bold:
-      700
-      1rem
-      "Geologica", sans-serif;
-
-  --font-oxygen-light:
-      300
-      1rem
-      "Oxygen", sans-serif;
-
-  --font-oxygen-regular:
-      400
-      1rem
-      "Oxygen", sans-serif;
-
-  --font-oxygen-bold:
-      700
-      1rem
-      "Oxygen", sans-serif;
-
+  --nav-height: 64px; /* adjust once */
 }
 
 * {
@@ -62,75 +30,60 @@
 
 html,
 body {
-  font-family:
-    "Geologica",
-    "Overpass",
-    Oxygen
-    /* -apple-system,
-    BlinkMacSystemFont,
-    Segoe UI, */
-    Roboto,
-    /* Oxygen,
-    Ubuntu,
-    Cantarell,
-    Fira Sans,
-    Droid Sans, */
-    Helvetica Neue,
-    sans-serif;
+  font-family: var(--font-inter), system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   line-height: 1.6;
   font-size: 18px;
 }
 
 body {
-  /* background-color: var(--colour-qblog-soft-grey); */
-  background: rgb(200,207,199);
-  background: linear-gradient(0deg, rgba(200,207,199,1) 0%, rgba(167,175,165,1) 100%) no-repeat;
-  min-block-size: 100vh;
-}
-
-* {
-  box-sizing: border-box;
+  background: var(--bg);
+  color: var(--text);
 }
 
 a {
-  color: #0070f3;
+  color: var(--emerald-primary);
   text-decoration: none;
 }
+
+a:hover {
+  color: var(--emerald-hover);
+  text-decoration: none;
+  text-underline-offset: 3px;
+}
+
+::selection {
+  background: rgba(47, 227, 177, 0.22);
+  color: var(--text);
+}
+
 
 img {
   max-width: 100%;
   display: block;
 }
 
-h1 {
-  font-family: "Geologica";
+article img {
+  border-radius: 12px;
+}
+
+
+h1, h2, h3 {
+  font-family: var(--font-ubuntu-sans), var(--font-inter), system-ui, sans-serif;
+  color: var(--text);
 }
 
 h2 {
   margin-block-end: 0.3em;
-  color: var(--colour-qblog-dark-grey)
 }
 
 h3 {
   margin-block-end: 0.2em;
+  color: var(--text-muted);
 }
 
 p {
   margin: 0;
   padding: 0;
-  font-family: "Oxygen";
-}
-
-img {
-  display: block;
-}
-
-nav a {
-    color: var(--colour-white)
-}
-
-nav a:hover {
-  color: var(--color-quantimatica-blue);
 }
 
 /* Article Image Formatting */
@@ -143,7 +96,6 @@ nav a:hover {
 .image_centre {
   margin-inline-end: 1em;
 }
-
 
 .image_right {
   float:right;
@@ -171,5 +123,17 @@ nav a:hover {
 .highlightBox {
   padding: 1em 1em 0.2em 1em;
   margin-block: 1em;
-  background-color: var(--colour-qblog-soft-grey);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+@media (max-width: 720px) {
+  :root {
+    --nav-height: 60px;
+  }
+}
+
+html {
+  scroll-padding-top: var(--nav-height);
 }

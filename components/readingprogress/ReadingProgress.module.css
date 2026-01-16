@@ -1,0 +1,21 @@
+.progressTrack {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: var(--nav-height);
+  height: 3px;
+  z-index: 3000;
+
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.progressBar {
+  height: 100%;
+  width: 100%;
+  transform-origin: 0 50%;
+  transform: scaleX(0);
+
+  background: rgba(16, 185, 129, 0.95);
+  box-shadow: 0 0 10px rgba(16, 185, 129, 0.25);
+  transition: transform 60ms linear;
+}

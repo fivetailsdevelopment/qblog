@@ -1,0 +1,85 @@
+.grid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.card {
+  display: grid;
+  gap: 0.45rem;
+  border-radius: 14px;
+  padding: 0.95rem 1rem;
+
+  background: rgba(16, 27, 30, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  background: rgba(16, 27, 30, 0.55);
+  border-color: rgba(47, 227, 177, 0.28);
+}
+
+.meta {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.62);
+}
+
+.title {
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.90);
+
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cta {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.72);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+/* keep ONE arrow and animate it instead of adding a new one */
+.cta::after {
+  content: "→";
+  color: rgba(255, 255, 255, 0.55);
+  transform: translateX(0);
+  transition: transform 120ms ease, color 120ms ease;
+}
+
+.card:hover .cta {
+  color: rgba(255, 255, 255, 0.90);
+}
+
+.card:hover .cta::after {
+  color: var(--emerald-primary);
+  transform: translateX(4px);
+}
+
+/* optional: make the whole card feel clickable without underlines */
+.card:focus-visible {
+  outline: 3px solid rgba(47, 227, 177, 0.28);
+  outline-offset: 2px;
+}
+
+@media (min-width: 760px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1060px) {
+  .grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}

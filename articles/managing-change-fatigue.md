@@ -5,6 +5,7 @@ author: 'James Hohnen'
 summary: "Explore what change fatigue really means and learn how to prevent it in the workplace with actionable tips and strategies. Address fatigue the right way."
 feature: 'No'
 meta-description: Explore what change fatigue really means and learn how to prevent it in the workplace with actionable tips and strategies. Address fatigue the right way.
+topics: ["Change Management", "Leadership", "Psychosocial Risk"]
 ---
 
 <img class="image_centre image_full" src="/articleimages/change-fatigue-workers.webp" alt="change fatigue" />

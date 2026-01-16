@@ -5,6 +5,7 @@ author: 'James Hohnen'
 summary: "Discover the blueprint for effective culture change with actionable strategies for leaders. Learn how to avoid common pitfalls, define the real problem, align strategy over planning, and balance top-down and bottom-up approaches to drive lasting organisational success."
 feature: 'No'
 meta-description: Discover the blueprint for effective culture change with actionable strategies for leaders. Learn how to avoid common pitfalls, define the real problem, align strategy over planning, and balance top-down and bottom-up approaches to drive lasting organisational success.
+topics: ["Culture", "Change", "Leadership"]
 ---
 
 <img class="image_centre image_full" src="/articleimages/culture-change-fail.webp" alt="culture change fail" />

@@ -4,7 +4,8 @@ date: '2024-11-11'
 author: 'James Hohnen'
 summary: "Are organisations genuinely addressing psychosocial risks, or just ticking compliance boxes? This article explores the real impact of shifting from compliance to a culture-driven approach in managing mental health and safety, revealing why true change starts with proactive, meaningful leadership."
 feature: 'No'
-meta-description: Are organisations genuinely addressing psychosocial risks, or just ticking compliance boxes? This article explores the real impact of shifting from compliance to a culture-driven approach in managing mental health and safety, revealing why true change starts with proactive, meaningful leadership..
+meta-description: Are organisations genuinely addressing psychosocial risks, or just ticking compliance boxes? This article explores the real impact of shifting from compliance to a culture-driven approach in managing mental health and safety, revealing why true change starts with proactive, meaningful leadership.
+topics: ["Psychosocial Risk", "Leadership"]
 ---
 
 <img class="image_centre image_full" src="/articleimages/psychosocialrisk.webp" alt="psychosocial risk" />

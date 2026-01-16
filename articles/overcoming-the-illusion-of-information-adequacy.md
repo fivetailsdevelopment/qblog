@@ -5,6 +5,7 @@ author: 'James Hohnen'
 summary: "Discover the illusion of information adequacy, why people assume they have enough information, and practical strategies to challenge assumptions and make informed decisions."
 feature: 'No'
 meta-description: Discover the illusion of information adequacy, why people assume they have enough information, and practical strategies to challenge assumptions and make informed decisions.
+topics: ["Cognitive Bias", "Decision Making"]
 ---
 
 <img class="image_right image_large" src="/articleimages/differing_viewpoints.webp" alt="ai evolution image" />

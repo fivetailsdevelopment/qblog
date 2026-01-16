@@ -5,6 +5,7 @@ summary: Discover research-backed strategies to build a strong feedback culture 
 date: '2025-05-25'
 feature: 'No'
 meta-description: Discover research-backed strategies to build a strong feedback culture in your organisation. Learn how coaching, clarity, mindset, and leadership behaviours shape high-performance feedback practices.
+topics: ["Feedback", "Leadership", "Psychological Safety"]
 ---
 
 <img class="image_centre image_full" src="/articleimages/feedback-group.webp" alt="feedback hero image" />

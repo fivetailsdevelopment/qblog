@@ -1,0 +1,131 @@
+.wrapper {
+  display: grid;
+  gap: 1rem;
+}
+
+.controls {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.searchRow {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.search {
+  width: 100%;
+  border-radius: 12px;
+  padding: 0.75rem 0.9rem;
+
+  background: rgba(16, 27, 30, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: var(--text);
+
+  outline: none;
+}
+
+.search::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.search:focus-visible {
+  border-color: rgba(47, 227, 177, 0.55);
+  box-shadow: 0 0 0 3px rgba(47, 227, 177, 0.16);
+}
+
+.count {
+  min-width: 2.25rem;
+  text-align: center;
+  border-radius: 999px;
+  padding: 0.35rem 0.6rem;
+
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9rem;
+}
+
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pill,
+.pillActive,
+.pillClear {
+  border-radius: 999px;
+  padding: 0.4rem 0.7rem;
+  font-size: 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.78);
+  cursor: pointer;
+}
+
+.pill:hover {
+  background: rgba(47, 227, 177, 0.08);
+  border-color: rgba(47, 227, 177, 0.20);
+  color: rgba(255, 255, 255, 0.90);
+}
+
+
+.pillActive {
+  border-color: rgba(47, 227, 177, 0.55);
+  background: rgba(47, 227, 177, 0.16);
+}
+
+.pillActive:hover {
+  background: rgba(47, 227, 177, 0.22);
+  border-color: rgba(47, 227, 177, 0.70);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.pill:focus-visible,
+.pillActive:focus-visible,
+.pillClear:focus-visible,
+.loadMore:focus-visible {
+  outline: none;
+  border-color: rgba(47, 227, 177, 0.55);
+  box-shadow: 0 0 0 3px rgba(47, 227, 177, 0.16);
+}
+
+.pillClear {
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.10);
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.pillClear:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.helper {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.60);
+  font-size: 0.9rem;
+}
+
+.loadMoreRow {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 0 1rem;
+}
+
+.loadMore {
+  border-radius: 14px;
+  padding: 0.65rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.90);
+  cursor: pointer;
+}
+
+.loadMore:hover {
+  border-color: rgba(47, 227, 177, 0.45);
+  background: rgba(47, 227, 177, 0.12);
+  color: var(--emerald-primary);
+}
+

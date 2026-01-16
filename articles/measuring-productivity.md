@@ -4,6 +4,7 @@ date: '2024-10-01'
 author: 'James Hohnen'
 summary: 'Unlock the secrets to measuring productivity in today’s complex work environment. Discover the pros and cons of financial, operational, and intangible metrics, and find the right mix for your organisation.'
 feature: 'No'
+topics: ["Productivity", "Measurement"]
 ---
 
 ## Introduction: The Productivity Puzzle
