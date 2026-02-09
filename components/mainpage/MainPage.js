@@ -6,6 +6,8 @@ import RecentNotes from "@/components/recent-notes/RecentNotes";
 import Image from "next/image";
 
 export default function MainPage({ allArticlesData }) {
+  const isDev = process.env.NODE_ENV === "development";
+
   return (
     <section className={styles.wrapper}>
       {/* HERO: title + tagline only */}
@@ -15,7 +17,7 @@ export default function MainPage({ allArticlesData }) {
 
         <div className={styles.hero_text}>
           <h1 className={styles.main__heading}>
-            <span className={styles.qMark}>q</span>Blog
+            <span className={styles.qMark}>q</span>Blog {isDev && <span className={styles.devBadge}>Dev</span>}
           </h1>
           <p className={styles.hero_bodyText}>
             Insights and practical thinking on culture, capability, and how work actually gets done.

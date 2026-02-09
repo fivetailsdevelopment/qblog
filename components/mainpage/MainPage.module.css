@@ -15,6 +15,16 @@
   border-bottom: 1px solid var(--border);
 }
 
+.devBadge {
+  position: relative;
+  vertical-align: middle;
+  background-color: lightgrey;
+  border-radius: 25px;
+  padding-inline: 1rem;
+  font-size: 1.5rem;
+  color: black
+}
+
 .heroImage {
   position: absolute;
   inset: 0;

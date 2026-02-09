@@ -15,13 +15,15 @@ const ubuntuSans = Ubuntu_Sans({
   display: "swap",
 });
 
-export const metadata = {
-  title: "qBlog - Quantimatica",
-  description:
-    "Insights and practical thinking on culture, capability, and how work actually gets done.",
-  icons: { icon: "/favicon.ico" },
-};
+export async function generateMetadata() {
+  const isDev = process.env.NODE_ENV === "development";
 
+  return {
+    title: isDev ? "qBlog - Dev" : "qBlog - Quantimatica",
+    description: "Insights and practical thinking on culture, capability, and how work actually gets done",
+    icons: { icon: "/favicon.ico" },
+  };
+}
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${inter.variable} ${ubuntuSans.variable}`}>
