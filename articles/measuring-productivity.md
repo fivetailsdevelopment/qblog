@@ -1,142 +1,166 @@
 ---
-title: 'Cracking the Code: How to Measure Productivity Without Losing Your Sanity'
-date: '2024-10-01'
+title: 'Why Organisations Struggle to Measure Productivity'
+date: '2026-02-09'
 author: 'James Hohnen'
-summary: 'Unlock the secrets to measuring productivity in today’s complex work environment. Discover the pros and cons of financial, operational, and intangible metrics, and find the right mix for your organisation.'
+summary: 'Productivity is critical to business success, yet many organisations struggle to measure it in a way that genuinely informs decisions. This article explores why productivity measurement so often falls short, how common metrics distort behaviour, and why the real challenge is one of system and work design.'
 feature: 'No'
-topics: ["Productivity", "Measurement"]
+topics: ["Productivity", "Measurement", "Performance"]
 ---
 
-## Introduction: The Productivity Puzzle
+## Productivity Matters Now More Than Ever
 
-<img class="image_right image_medium" src="/articleimages/productivity-puzzle-coloured.webp" alt="productivity puzzle" />
+<img class="image_right image_large" src="/articleimages/20260209-productivity-cat-laptop.webp" alt="productivity puzzle" />
 
-Ah, productivity—a word that sparks both excitement and dread in the hearts of business leaders (and HR professionals) everywhere. We all want our organisations to be lean, efficient, and high-performing, but when it comes to measuring productivity, things can get a little… complicated.
+Productivity sits at the centre of almost every serious business conversation.
 
-For many, traditional metrics like output per employee feel outdated, especially when your team isn’t churning out widgets on a production line. And while employee engagement is often touted as a proxy for productivity, let’s be honest — just because your team is happy doesn’t mean they’re [getting more done](https://hbr.org/2017/02/being-engaged-at-work-is-not-the-same-as-being-productive). So, how do you truly measure productivity in a modern workplace? Let’s break it down into three main categories: **Financial**, **Operational**, and **Intangible** metrics.
+It drives profitability and underpins competitiveness. It creates headroom for higher wages, better customer outcomes, and sustained innovation.
 
-## Financial Metrics: The Money Talks (But What Is It Saying?)
+When productivity improves, organisations get stronger without simply asking people to work harder. When it stalls, everything *else* becomes harder: margins tighten, innovation slows down, and growth starts to feel fragile.
 
-### Revenue per Employee: An Oldie but a Goodie
+So it’s not surprising that businesses want to measure productivity. What *is* surprising is how often those measurement efforts fall short, not because productivity doesn’t matter, but because measuring it properly turns out to be far more challenging than most leaders expect.
 
-- **Where It Works**: This classic metric divides total revenue by the number of employees and gives you a quick snapshot of how much revenue each employee is generating. It works well in sectors where revenue generation is closely tied to individual performance, such as sales, consulting, and professional services.
-- **Where It Falls Short**: For knowledge-based industries, like R&D or creative fields, this metric might not tell you much. After all, how do you quantify the value of a brilliant idea that doesn’t immediately translate to revenue?
+---
 
-<div class="highlightBox">
+## Is Productivity Just Harder in Modern Work?
 
-**Further Reading**: Check out the [Harvard Business Review](https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy) for insights on how revenue per employee fits into broader performance metrics.
+Productivity was easier to measure when work was physical, linear, and visible. You could count units produced, hours worked, defects fixed. Output and effort were closely linked.
 
-</div>
+Today’s work looks very different. Much of the value organisations create comes from judgment, collaboration, problem-solving, and decision-making. Outputs are less tangible. Attribution is fuzzy. Cause and effect stretch over time (often long enough for everyone involved to deny responsibility).
 
-### Profit per Employee: The Bottom Line
+So organisations do what seems reasonable: they reach for proxies.
 
-- **Where It Works**: Similar to revenue per employee, this metric looks at profit generated per employee, offering a clearer picture of how effectively the workforce is contributing to the company’s profitability. It’s especially useful in cost-sensitive industries like retail and manufacturing.
-- **Where It Falls Short**: Like revenue per employee, it struggles to account for the nuances in roles where direct profit attribution is difficult, such as support functions or long-term projects that won’t pay off immediately.
+- Financial metrics like revenue or profit per employee  
+- Operational metrics like utilisation, cycle time, or actions completed  
+- Intangible (but available) indicators like employee engagement  
 
-<div class="highlightBox">
+Each offers *something*, but none feels fully satisfying. At this point, most discussions stop with a resigned shrug and a list of caveats longer than a six-year-old’s Christmas wish list.
 
-**Further Reading**: For more on financial metrics, [Investopedia](https://www.investopedia.com/ask/answers/040715/how-productivity-calculated.asp#:~:text=Calculating%20Labor%20Productivity,the%20employees%20at%20their%20company.) offers a great overview of calculating and interpreting these figures.
+But that’s where the more interesting question begins.
 
-</div>
+---
 
-## Operational Metrics: Beyond the Dollar Signs
+## The Uncomfortable Gap: We Want Productivity but Measure What’s Cheap and Visible
 
-### Output per Unit of Input: Getting Down to Business
+<img class="image_left image_large" src="/articleimages/20260209-productivity-house-facade.webp" alt="productivity puzzle" />
 
-- **Where It Works**: This is a solid metric in environments where production is quantifiable—think manufacturing, logistics, and even software development (e.g., lines of code per developer). It’s all about seeing how much bang you’re getting for your buck in terms of inputs like labor, materials, or time.
-- **Where It Falls Short**: This metric can be tricky in creative industries or roles that involve problem-solving, where output isn’t easily quantifiable. For example, how do you measure the “output” of a strategy meeting or a brainstorming session?
+If productivity is about **value created relative to resources used**, then in theory our metrics should help us understand exactly that.
 
-<div class="highlightBox">
+In practice, many organisations default to measures that are:
 
-**Further Reading**: Explore how operational metrics can drive performance in the [McKinsey Quarterly](https://www.mckinsey.com/business-functions/operations/our-insights).
+- Already available or easy to extract from existing systems  
+- Familiar or easy to explain to boards and investors  
+- Easy to compare quarter-to-quarter  
 
-</div>
+Those measures tend to focus on activity, speed, utilisation, compliance, and sentiment.
 
-### Cycle-Time Reduction: Speeding Up Without Spinning Out
+The problem isn’t that these metrics are *wrong*. It’s that they quietly reward behaviour that *looks* productive rather than behaviour that reliably creates value over time.
 
-- **Where It Works**: Cycle-time reduction focuses on how quickly tasks or processes can be completed. It’s particularly effective in industries like manufacturing, software development (e.g., Agile methodologies), and even customer service, where reducing the time taken to complete tasks can directly enhance productivity.
-- **Where It Falls Short**: Not all processes benefit from being sped up. In research-intensive or creative fields, pushing for shorter cycle times might compromise quality or lead to burnout.
+- High utilisation can crowd out collaboration, learning, and innovation  
+- Shorter cycle times can reduce quality or increase rework  
+- Financial ratios can obscure where value is actually created or destroyed  
 
-<div class="highlightBox">
+The result is a subtle but powerful misalignment:
 
-**Further Reading**: For more on the benefits and challenges of cycle-time reduction, see this [Lean Enterprise Institute article](https://www.lean.org/lexicon-terms/cycle-time/).
+> **We say we want productivity, but we design systems that reward busyness, visibility, and short-term delivery.**
 
-</div>
+Most people can feel this tension. Few organisations name it explicitly.
 
-### Utilisation Rates: Are We There Yet?
+---
 
-- **Where It Works**: Utilisation rates measure how effectively your workforce is being used. This metric is particularly useful in industries like consulting, construction, IT services, and professional services, where ensuring that employees are fully occupied with productive work can make or break profitability.
-- **Where It Falls Short**: High utilisation isn’t always a good thing. If your team is too utilised, you might be running them ragged, leading to burnout and decreased long-term productivity. It can also lead to a reluctance to participate or engage in 'non-utilisation' activities, such as learning or innovation, especially where charge-backs are applied to the support function facilitating the activity.
+## Why This Keeps Happening
 
-<div class="highlightBox">
+<img class="image_right image_large" src="/articleimages/20260209-productivity-trainer.webp" alt="productivity puzzle" />
 
-**Further Reading**: To delve deeper into utilisation rates and their impact on business, check out [Project Management Institute’s resources](https://www.pmi.org/).
+This pattern isn’t the result of poor intent or lack of intelligence. It’s a predictable response to common organisational pressures.
 
-</div>
+Senior leaders often feel expected to:
 
-### Error Rates and Rework: The Quest for Perfection
+- Demonstrate control  
+- Provide certainty  
+- Explain performance in simple terms  
 
-- **Where It Works**: In sectors where quality is king, like pharmaceuticals, aerospace, or any high-stakes environment, tracking error rates and rework costs can be a great indicator of productivity. Reducing errors directly correlates to increased efficiency and cost savings.
-- **Where It Falls Short**: For organisations where experimentation and iteration are part of the process (like startups or R&D functions), focusing too much on error rates might stifle innovation.
+Metrics that are visible, comparable, and defensible help meet those expectations, even if they only partially reflect reality.
 
-<div class="highlightBox">
+Over time, indicators drift into targets. Targets shape behaviour. Behaviour reshapes the system.
 
-**Further Reading**: For insights on balancing quality with innovation, check out [MIT Sloan Management Review](https://sloanreview.mit.edu/article/balancing-valued-tradition-with-innovation/).
+What started as a way to *observe* productivity becomes a way to *define* it.
 
-</div>
-
-## Intangible Metrics: The Soft Side of Productivity
-
-### Employee Engagement: More Than Just a Happy Face
-
-- **Where It Works**: Engagement surveys are popular because they’re relatively easy to conduct and can give you a sense of whether your employees are motivated and aligned with company goals. High engagement often correlates with higher productivity, especially in [customer-facing](https://hbr.org/2023/04/engaged-employees-create-better-customer-experiences) or [creative](https://www.cultureamp.com/blog/improve-innovation-engagement-organization) roles.
-- **Where It Falls Short**: Engagement doesn’t always equal productivity. An engaged employee might be happy and enthusiastic but not necessarily efficient. Moreover, engagement surveys can be subjective and influenced by short-term factors.
+**This is how organisations end up managing to the metric rather than the value it was meant to represent.**
 
 <div class="highlightBox">
 
-**Further Reading**: Dive into the complexities of employee engagement with this [Gallup Report](https://www.gallup.com/workplace/285674/improve-employee-engagement-workplace.aspx).
+**Further reading**: This dynamic is closely related to the well-documented problem of targets distorting behaviour. While often discussed academically, it shows up very clearly in real organisations. See:  
+[When Measures Become Targets – Harvard Business Review](https://hbr.org/2017/06/how-metrics-can-undermine-your-business)
 
 </div>
 
-### Leadership Effectiveness: Leading the Charge
+---
 
-- **Where It Works**: Leadership effectiveness is a key [driver of productivity](https://www.forbes.com/sites/paolacecchi-dimeglio/2024/06/06/5-essential-tips-for-how-leaders-can-skyrocket-productivity/), as effective leaders inspire their teams, make strategic decisions, and foster a positive work environment. Metrics like 360-degree feedback or leadership competency scores can provide valuable insights into how well leaders are driving productivity.
-- **Where It Falls Short**: Measuring leadership effectiveness can be challenging due to its subjective nature. Additionally, poor leadership might not show up in productivity metrics immediately, making it difficult to pinpoint until it’s too late.
+## What Common Productivity Metrics Tell Us and What They Distort
+
+This is where nuance matters.
+
+### Financial Metrics
+
+Measures like revenue or profit per employee are useful at an **aggregate level**. They can highlight broad efficiency trends and signal whether value creation is keeping pace with workforce growth.
+
+What they don’t do well is explain *why* performance looks the way it does or *which work* actually creates value.
+
+### Operational Metrics
+
+Utilisation rates, cycle times, and error rates can sharpen operational discipline. In the right contexts, they genuinely improve performance.
+
+But when over-weighted, they often encourage local optimisation: people protecting their utilisation, rushing work, or avoiding “non-productive” activities like collaboration, improvement, and learning.
 
 <div class="highlightBox">
 
-**Further Reading**: For more on measuring and improving leadership effectiveness, [Harvard Business Review](https://hbr.org/) has a range of articles and case studies.
+**Further reading**: For a practical perspective on utilisation and flow trade-offs, see work on systems and constraints such as:  
+[The Theory of Constraints – Goldratt Institute](https://www.tocinstitute.org/theory-of-constraints.html)
 
 </div>
 
-### Innovation Rate: Counting Creativity
+### Intangible Metrics
 
-- **Where It Works**: For companies that rely on innovation—like tech firms or consumer goods companies—tracking the rate of new products, services, or processes can be a key productivity indicator. It’s not just about churning out ideas, but bringing viable, successful innovations to market.
-- **Where It Falls Short**: Measuring innovation is tricky because not all ideas will succeed, and the value of innovation often becomes clear only in the long term. It’s also hard to attribute innovations to specific individuals or teams.
+Engagement and innovation rates are attractive because they feel closer to the real drivers of performance.
 
-<div class="highlightBox">
+The risk is that they become comforting stand-ins for harder questions about ways of working, decision rights, continuous improvement, and trade-offs - especially when they’re weakly connected to actual outcomes.
 
-**Further Reading**: Learn how to foster and measure innovation in [Fast Company](https://www.fastcompany.com/).
+None of these measures are useless. But none of them are neutral.
 
-</div>
+> **Metrics have opinions. Every metric rewards something while silencing something else.**
 
-### Cultural Alignment: The Heartbeat of Your Company
+---
 
-- **Where It Works**: Measuring how well employees align with the company’s values can be a powerful indicator of [long-term productivity](https://hbr.org/2015/12/proof-that-positive-work-cultures-are-more-productive). When people believe in what they’re doing, they’re more likely to go the extra mile.
-- **Where It Falls Short**: Like engagement, cultural alignment is subjective and can be influenced by external factors. It’s also challenging to tie directly to productivity outcomes, making it more of a long-term metric.
+## What Usually Happens Next (and Why It Rarely Helps)
 
-<div class="highlightBox">
+Faced with these limitations, organisations often respond by adding more metrics. Or creating composite indices. Or rolling out dashboards in the hope that insight will emerge through volume.
 
-**Further Reading**: For more on the impact of culture on productivity, see [HBR’s article on company culture](https://hbr.org/2018/01/the-culture-factor.html).
+What they get instead is measurement density without clarity. The underlying misalignment remains.
 
-</div>
+If you’ve ever worked for an organisation that is constantly redesigning its reports and scorecards (usually with great enthusiasm and very little change) you’ve experienced the consequences of this frustration.
 
-## Conclusion: Finding the Right Mix
+---
 
-<img class="image_left image_large" src="/articleimages/productivity-two-piece-puzzle.webp" alt="productivity puzzle" />
+## A More Useful Reframing: Productivity Is a *Design Problem* Before It’s a Measurement Problem
 
-There’s no one-size-fits-all approach to measuring productivity, especially in complex, modern organisations. The key is to find the right mix of financial, operational, and intangible metrics that suit your specific business needs. By understanding where each method works best—and where it doesn’t—you can start to build a productivity measurement framework that actually reflects the realities of your workforce.
+<img class="image_right image_large" src="/articleimages/20260209-productivity-dog-house.webp" alt="productivity puzzle" />
 
-Remember, productivity isn’t just about working harder; it’s about working smarter. And by carefully selecting the metrics that matter most to your organisation, you can ensure that your efforts are driving the results you want.
+If productivity is persistently hard to measure, it’s often a signal.
 
-**Where to Go Next**: If you're eager to dive deeper into the world of productivity measurement, [MIT Sloan Management Review](https://sloanreview.mit.edu/), [HBR](https://hbr.org/), and [McKinsey Quarterly](https://www.mckinsey.com/business-functions/operations/our-insights) are great places to start.
+Not of inadequate data, but of unclear value, poorly designed work, overloaded systems, or confused accountability.
+
+In those conditions, no metric will behave well because the work itself isn’t coherent enough to measure cleanly.
+
+The real work isn’t picking better metrics. It’s aligning **intent**, **design**, and **consequence**:
+
+- What value are we actually trying to create?  
+- How is work structured to create it?  
+- What behaviours do our systems make rational?  
+
+Metrics should follow those answers — not substitute for them.
+
+---
+
+When productivity metrics disappoint, they’re usually telling you something important... Just not what the dashboard says.
+
+This tension between what organisations say they want and what their systems actually reward has come up repeatedly in most businesses I’ve worked with. If it feels familiar, it’s usually worth slowing down and examining properly before reaching for another measurement framework.
