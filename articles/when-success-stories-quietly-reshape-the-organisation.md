@@ -1,5 +1,5 @@
 ---
-title: 'When Success Stories Quietly Reshape the Organisation'
+title: 'When Success Stories Gradually Reshape the Organisation'
 date: '2026-03-04'
 author: 'James Hohnen'
 summary: 'In complex organisations, success rarely arrives without a story. When simplified success narratives are treated as proof of leadership quality, they begin to shape who gets promoted, how capital is allocated, and what behaviours are rewarded. This article explores how performance reporting and board-level narratives can quietly narrow leadership archetypes and dencrease long-term strategic strength.'
@@ -31,7 +31,7 @@ What's missing from the discussion is what else was moving at the same time:
 
 The numbers are not wrong, but the story that forms around them is selective. Once it hardens, it doesn’t just explain the past. It begins to define what “good” looks like.
 
-In an [earlier piece](https://qblog.quantimatica.com.au/articles/how-intent-quietly-collapses-inside-organisations), I’ve argued that impact measurement often fails when intent drifts. This looks at how that drift can influence reporting and success measures when results appeear to be good.
+In an [earlier piece](https://qblog.quantimatica.com.au/articles/how-intent-quietly-collapses-inside-organisations), I’ve argued that impact measurement often fails when intent drifts. This looks at how that drift can influence reporting and success measures when results appear to be good.
 
 ---
 
@@ -99,11 +99,11 @@ Once success has been declared, dissent becomes socially prohibitive. In most or
 
 <img class="image_left image_large" src="/articleimages/20260304-success-reshapes-orgs-team.webp" alt="similar looking team" />
 
-When success stories gain narrative gravity, they begin pulling decisions, promotions, and capital toward them. Capital allocation narrows around familiar plays. Promotion patterns cluster around leaders associated with visible wins. People attempting to deliver initiatives that interfere with "successful teams" are seen to be impractical or uncommercial.
+When success stories gain narrative gravity, they begin pulling decisions, promotions, and capital toward them. Investment allocation narrows around familiar approaches. Promotion patterns align with leaders associated with visible wins. People attempting to deliver initiatives that interfere with "successful teams" are seen to be impractical or uncommercial.
 
 Four years in, the organisation appears to be running efficiently. It knows what “good” looks like. It funds variations of the same theme and appoints leaders who resemble prior successes.
 
-Five years in, something starts to surface. Strategic optionality has narrowed because investment in the foundational work required to sustain growth was shifted to maintaining the conditions that made its last success possible. As a result, it is less adapted to conditions that meaninfully differ.
+Five years in, something starts to surface. Strategic optionality has narrowed because investment in the foundational work required to sustain growth was shifted to maintaining the conditions that made its last success possible. As a result, it is less adapted to conditions that meaningfully differ.
 
 Leaders start to look and sound the same. Confidence is everywhere while curiosity is harder to find. Ideas that don’t fit the established formula struggle to get airtime, because they don’t resemble the kind of moves that have previously been rewarded.
 
@@ -115,7 +115,7 @@ From the inside, this feels disciplined and focused, but from the outside, it ca
 
 This dynamic is further amplified by how performance is reported. It’s easier to defend what you did than to interrogate what actually drove the result.
 
-Activity-based reporting is common because it is clean. It focuses on things like initiatives launched, milestones delivered, revenue uplift achieved, or Costs reduced. All of this is attributable and fits neatly into ownership structures.
+Activity-based reporting is common because it is clean. It focuses on things like initiatives launched, milestones delivered, revenue uplift achieved, or costs reduced. All of this is attributable and fits neatly into ownership structures.
 
 Outcome-based reporting is more awkward. If done well, it resists the urge to compress complex performance into a single, confident explanation. It asks not just what happened, but what conditions made it possible. That means acknowledging market tailwinds, regulatory shifts, and legacy strengths alongside deliberate decisions. It also means recognising that most outcomes emerge from choices to invest in longer-term capability rather than optimise short-term wins. Credit and accountability become less cleanly owned. Causality becomes harder to summarise in a few sentences. That is why this form of reporting introduces friction: it makes the narrative compression discussed earlier more difficult.
 
