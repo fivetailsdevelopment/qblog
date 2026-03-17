@@ -183,5 +183,5 @@ It’s *what have we actually designed the system to produce?*
 
 Impact Measurement Series
 1. [Measuring Impact Starts With Intent, Not Indicators](https://medium.com/age-of-awareness/measuring-impact-starts-with-intent-not-indicators-35d742b1aa2d)
-2. [How Intent Quietly Collapses Inside Organisations](https://medium.com/@quantimatica/how-intent-quietly-collapses-inside-organisations-3b4f345c953c)
-3. [When Success Stories Quietly Reshape the Organisation](https://medium.com/@quantimatica/when-success-stories-gradually-reshape-the-organisation-38babac0e0b7)
+2. [Why Intent Collapses During Execution](https://medium.com/@quantimatica/how-intent-quietly-collapses-inside-organisations-3b4f345c953c)
+3. [How Success Narratives Distort Impact](https://medium.com/@quantimatica/when-success-stories-gradually-reshape-the-organisation-38babac0e0b7)

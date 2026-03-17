@@ -1,5 +1,5 @@
 ---
-title: 'How Intent Quietly Collapses Inside Organisations'
+title: 'Why Intent Collapses During Execution'
 date: '2026-02-23'
 author: 'James Hohnen'
 summary: 'Organisations often blame execution when strategic progress stalls. In reality, intent frequently degrades as it moves through layers of translation, incentives, and local optimisation. This article explores how structural drift reshapes strategy without anyone formally changing it, and why leaders often end up evaluating success against a version of intent that no longer exists.'

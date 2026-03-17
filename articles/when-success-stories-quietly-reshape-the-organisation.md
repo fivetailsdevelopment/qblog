@@ -1,5 +1,5 @@
 ---
-title: 'When Success Stories Gradually Reshape the Organisation'
+title: 'How Success Narratives Distort Impact'
 date: '2026-03-04'
 author: 'James Hohnen'
 summary: 'In complex organisations, success rarely arrives without a story. When simplified success narratives are treated as proof of leadership quality, they begin to shape who gets promoted, how capital is allocated, and what behaviours are rewarded. This article explores how performance reporting and board-level narratives can quietly narrow leadership archetypes and dencrease long-term strategic strength.'
