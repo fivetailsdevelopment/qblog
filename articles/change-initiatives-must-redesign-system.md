@@ -60,7 +60,7 @@ Organisations are remarkably good at preserving these conditions.
 
 The interesting question is why this happens so reliably.
 
-Most organisational systems are built for consistency, efficiency and reliability. These qualities large organisations rely on in order to operate at scale. Incentives reinforce delivery against predefined targets. Governance structures exist to reduce risk. Budget cycles favour initiatives that can show progress quickly. Decision rights are arranged so that consequential changes move slowly and visibly through layers of approval.
+Most organisational systems are built for consistency, efficiency and reliability. These are qualities large organisations rely on in order to operate at scale. Incentives reinforce delivery against predefined targets. Governance structures exist to reduce risk. Budget cycles favour initiatives that can show progress quickly. Decision rights are arranged so that consequential changes move slowly and visibly through layers of approval.
 
 All of these mechanisms exist for good reasons: they make large organisations manageable and performance monitorable by setting expectations around how and what work is performed.
 
