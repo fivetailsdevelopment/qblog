@@ -13,7 +13,7 @@ Organisations don’t usually struggle to get work done. They struggle to change
 
 Stay in one organisation long enough and chances are you'll start to see the same pattern. A new or refreshed strategy is launched, usually with a push for faster decisions and fewer handoffs. Planning leads to a portfolio review and a reshuffled set of initiatives. Initiatives are translated into annual team and individual goals, and work begins.
 
-Progress is visible everywhere — milestones are being hit and dashboards are mostly green. Governance is generally robust. Monthly updates are tight enough that few feel the need to challenge them.
+Progress is visible everywhere - milestones are being hit and dashboards are mostly green. Governance is generally robust. Monthly updates are tight enough that few feel the need to challenge them.
 
 But by the end of year one, decisions are no faster and trade-offs are no clearer. Silos remain unbroken. The organisation still behaves as it did before the work started. Senior leadership starts pushing for faster change. Attention turns to workshops, frameworks, and training designed to improve ways of working.
 
@@ -25,7 +25,7 @@ Delivery isn’t the problem. The organisation is executing exactly as designed.
 
 Sometimes, this pattern is impossible to ignore.
 
-A major transformation runs for years. Effort is abundant — governance forums, testing environments, stakeholder engagement, regular updates. At the same time, legacy operating practices remain in place while leaders pursue quick wins and lower-risk initiatives, leaving the harder changes untouched.
+A major transformation runs for years. Effort is abundant - governance forums, testing environments, stakeholder engagement, regular updates. At the same time, legacy operating practices remain in place while leaders pursue quick wins and lower-risk initiatives, leaving the harder changes untouched.
 
 Deadlines move. Assurance layers increase. Eventually, work pauses so the design can be revisited.
 
@@ -47,7 +47,7 @@ That instinct makes sense. It’s also where most organisations stop.
 
 <img class="image_left image_large" src="/articleimages/20260407-what-leaders-change-for-diff-outcomes-hamsterwheel.webp" alt="moved target" />
 
-The harder realisation is that the issue isn’t the volume of work — it’s that the work is skirting around the system itself. Initiatives only change organisations when they alter the system or the conditions it operates within.
+The harder realisation is that the issue isn’t the volume of work - it’s that the work is skirting around the system itself. Initiatives only change organisations when they alter the system or the conditions it operates within.
 
 If that system still rewards the same behaviours and manages trade-offs the same way, the outcome is already decided before the work even begins.
 
@@ -59,7 +59,7 @@ And whether anything in that design has actually changed.
 
 ## Change the Conditions
 
-Outcomes don’t come from the volume of work delivered. They come from how the organisation makes decisions, allocates resources, and handles trade-offs—especially under pressure.
+Outcomes don’t come from the volume of work delivered. They come from how the organisation makes decisions, allocates resources, and handles trade-offs - especially when under pressure.
 
 Initiatives sit inside that setup. They’re constrained by it.
 
@@ -69,13 +69,13 @@ In that context, more activity doesn’t create movement. It disappears into the
 
 This is why the real work of change is less about what gets launched, and more about what gets rewired.
 
-Change happens when the conditions for how work is delivered are altered—especially when the pressure is on.
+Change happens when the conditions for how work is delivered are altered.
 
-These focus areas aren’t additional work. They are choices about what to change—in incentives, authority, governance, and trade-offs—so that different outcomes become possible.
+These focus areas aren’t additional work. They are choices about what to change - in incentives, authority, governance, and trade-offs - so that different outcomes become possible.
 
 ### 1. Be stricter about what gets funded
 
-* Fund against the outcome you want — most organisations fund what’s easiest to defend, not what actually changes outcomes.
+* Fund against the outcome you want - most organisations fund what’s easiest to defend, not what actually changes outcomes.
 * Don’t mistake a well-presented initiative for one that will materially shift performance, decisions, or results.
 * Be alert to halo effects - familiar winners, confident sponsors, and previously successful teams often attract funding more easily than the work itself warrants.
 * Ask what this investment is reinforcing, not just what it will deliver.
@@ -92,28 +92,28 @@ These focus areas aren’t additional work. They are choices about what to chang
   * control vs speed
   * investment vs cost reduction
   * innovation vs risk containment
-* Make an explicit call on which side wins — otherwise the system will decide for you.
-* Do not launch initiatives into unresolved trade-offs — they will be absorbed.
+* Make an explicit call on which side wins - otherwise the system will decide for you.
+* Do not launch initiatives into unresolved trade-offs - they will be absorbed.
 
 ---
 
 ### 3. Change what gets reinforced before asking for new behaviour
 
 * Start by confronting the gap: what’s said to matter vs what gets backed under pressure. They’re rarely the same in practice.
-* Look at what consistently wins in the room: what gets praised, fast‑tracked, escalated, protected — and what gets deprioritised.
+* Look at what consistently wins in the room: what gets praised, fast‑tracked, escalated, protected - and what gets deprioritised.
 * Change those signals in the moments that count (exec forums, governance gates, performance discussions), not in comms or training.
 * Be explicit about the contradiction: stop praising one thing while rewarding another. It happens more often than most leaders realise.
 * Separate this from funding: funding decides what enters; reinforcement decides what survives and scales.
-* If these signals don’t change, people will follow them — not the message or the memo.
+* If these signals don’t change, people will follow them - not the message or the memo.
 
 ---
 
 ### 4. Reallocate authority to match the outcome you want
 
-* Surface where decisions are actually being made today — formal authority often sits in one place, while day-to-day control sits elsewhere
-* Look at where decisions are escalated, overridden, or delayed — these patterns show where authority actually sits
+* Surface where decisions are actually being made today - formal authority often sits in one place, while day-to-day control sits elsewhere
+* Look at where decisions are escalated, overridden, or delayed - these patterns show where authority actually sits
 * Align decision rights with where the outcome is created, not where risk or hierarchy has historically concentrated power
-* Expect resistance — shifting authority alters control, visibility, and accountability, not just the process.
+* Expect resistance - shifting authority alters control, visibility, and accountability, not just the process.
 * Until decision rights change, outcomes will continue to follow existing priorities, regardless of intent
 
 ---
@@ -131,11 +131,11 @@ These focus areas aren’t additional work. They are choices about what to chang
 
 ## Questions That Cut Through
 
-These are the kinds of questions to use in executive forums — strategy discussions, initiative approvals, even performance reviews — to cut through a polished update and get to what will actually change.
+These are the kinds of questions to use in executive forums - strategy discussions, initiative approvals, even performance reviews - to cut through a polished update and get to what will actually change.
 
 * “Assuming strong execution, what in our current setup would still limit this from changing the outcome?”
 * “What will be materially different in how this organisation operates if this works?”
-* “After this, what becomes easier to do — and what becomes harder?”
+* “After this, what becomes easier to do, and what becomes harder?”
 * “What are we consciously trading off to get a different result, and what are we saying no to?”
 * “Six to twelve months in, what would we see that tells us this has genuinely changed something?”
 
