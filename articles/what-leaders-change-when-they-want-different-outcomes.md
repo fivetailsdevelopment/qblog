@@ -19,7 +19,7 @@ But by the end of year one, decisions are no faster and trade-offs are no cleare
 
 By the end of year two, employee confidence is starting to wane. Nothing has obviously failed. In fact, most of the work has been solid, even disciplined. Yet the outcome hasn’t materially changed. Fingers start pointing. Leaders feel frustrated at being let down by teams that haven't delivered.
 
-<img class="image_right image_large" src="/articleimages/20260407-what-leaders-change-for-diff-outcomes-notimeforchange.webp" alt="moved target" />
+<img class="image_right image_large" src="/articleimages/20260407-what-leaders-change-for-diff-outcomes-notimeforchange.webp" alt="No time for change" />
 
 Delivery isn’t the problem. The organisation is executing exactly as designed. It’s just executing work the system can adapt around, while avoiding any real change.
 
@@ -45,7 +45,7 @@ Are we delivering it properly? Are we prioritising the right things? Is executio
 
 That instinct makes sense. It’s also where most organisations stop.
 
-<img class="image_left image_large" src="/articleimages/20260407-what-leaders-change-for-diff-outcomes-hamsterwheel.webp" alt="moved target" />
+<img class="image_left image_large" src="/articleimages/20260407-what-leaders-change-for-diff-outcomes-hamsterwheel.webp" alt="Hamster wheel" />
 
 The harder realisation is that the issue isn’t the volume of work - it’s that the work is skirting around the system itself. Initiatives only change organisations when they alter the system or the conditions it operates within.
 
@@ -148,3 +148,14 @@ Most organisations don’t lack initiatives. They have more than enough. What th
 Until that shifts, more work will continue to look like progress while leaving outcomes unchanged.
 
 In the end, organisations don’t behave according to what they intend. They behave according to what their systems make possible.
+
+---
+
+*This article is the final in a series exploring why organisations struggle to measure impact and what it takes to design work that actually produces meaningful outcomes.*
+
+Impact Measurement Series
+1. [Measuring Impact Starts With Intent, Not Indicators](https://medium.com/age-of-awareness/measuring-impact-starts-with-intent-not-indicators-35d742b1aa2d)
+2. [Why Intent Collapses During Execution](https://medium.com/@quantimatica/how-intent-quietly-collapses-inside-organisations-3b4f345c953c)
+3. [How Success Narratives Distort Impact](https://medium.com/@quantimatica/when-success-stories-gradually-reshape-the-organisation-38babac0e0b7)
+4. [Designing for Impact Before Measuring It](https://medium.com/@quantimatica/designing-for-impact-before-measuring-it-af74a410a51e)
+5. [Why Change Initiatives Must Redesign the System](https://medium.com/@quantimatica/why-change-initiatives-must-redesign-the-system-b4b61751f6ed)
